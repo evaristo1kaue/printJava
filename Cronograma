@@ -1,0 +1,52 @@
+Dia 1-2: Introdução ao Java
+
+Tempo recomendado: 1 hora por dia
+Estude os conceitos básicos de Java, como sintaxe, tipos de dados, variáveis e operadores.
+Faça pequenos programas simples para praticar o que aprendeu.
+Dia 3-4: Estruturas de Controle
+
+Tempo recomendado: 1 hora por dia
+Aprenda sobre estruturas de controle em Java, incluindo condicionais (if, else) e loops (for, while).
+Pratique escrevendo programas que usem essas estruturas de controle.
+Dia 5-7: Arrays e Coleções
+
+Tempo recomendado: 1 hora por dia
+Estude arrays unidimensionais e multidimensionais em Java.
+Aprenda sobre as coleções Java, como ArrayList, LinkedList, HashSet, etc.
+Escreva programas para manipular e trabalhar com arrays e coleções.
+Dia 8-10: Orientação a Objetos
+
+Tempo recomendado: 1-2 horas por dia
+Entenda os princípios de programação orientada a objetos (POO).
+Estude classes, objetos, herança, polimorfismo, encapsulamento e abstração em Java.
+Pratique escrevendo programas orientados a objetos.
+Dia 11-13: Tratamento de Exceções
+
+Tempo recomendado: 1 hora por dia
+Aprenda sobre como lidar com exceções em Java.
+Estude try-catch blocks, throws, finally, e como criar suas próprias exceções personalizadas.
+Pratique escrevendo código que manipule exceções.
+Dia 14-16: Manipulação de Arquivos
+
+Tempo recomendado: 1 hora por dia
+Estude como ler e escrever arquivos em Java.
+Aprenda sobre classes como File, FileReader, FileWriter, e BufferedReader.
+Pratique escrevendo programas que manipulem arquivos.
+Dia 17-20: Interfaces e Classes Abstratas
+
+Tempo recomendado: 1-2 horas por dia
+Entenda o conceito de interfaces e classes abstratas em Java.
+Aprenda como implementar interfaces e estender classes abstratas.
+Pratique escrevendo programas que usem interfaces e classes abstratas.
+Dia 21-24: Programação Avançada
+
+Tempo recomendado: 1-2 horas por dia
+Estude tópicos avançados, como programação concorrente (Threads), expressões lambda, JavaFX (para interfaces gráficas), entre outros.
+Explore APIs populares e frameworks em Java, como Spring e Hibernate.
+Pratique escrevendo programas mais complexos que incorporem esses conceitos avançados.
+Dia 25-30: Projetos Práticos e Revisão
+
+Tempo recomendado: 2-3 horas por dia
+Dedique tempo para trabalhar em projetos práticos usando Java.
+Revise os tópicos que você estudou ao longo do mês.
+Reforce seu aprendizado resolvendo exercícios e problemas de programação em Java.
