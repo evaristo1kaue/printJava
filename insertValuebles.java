@@ -1,7 +1,7 @@
 //Importando uma biblioteca para usar entrada de dados
 import java.util.Scanner;
 
-//Abrindo uma classe obrgatória na linguagem Java
+//Abrindo uma classe obrigatória na linguagem Java
 public class CalculoMedia{
   
   public static void main(String[] args){
