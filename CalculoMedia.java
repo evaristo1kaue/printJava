@@ -9,23 +9,23 @@ public class CalculoMedia{
     Scanner scanner = new Scanner(System.in);
 
     //Informativo de cabeçalho
-    system.out.println("--Calculadora de média de 3 números--");
+    System.out.println("--Calculadora de média de 3 números--");
 
     //Primeiro número
-    system.out.print("Digite o primeiro número: ");
+    System.out.print("Digite o primeiro número: ");
     double num1 = scanner.nextDouble();
 
     //Segundo número
-    system.out.print("Digite o segundo número: ");
+    System.out.print("Digite o segundo número: ");
     double num2 = scanner.nextDouble();
 
     //Terceiro número
-    system.out.print("Digite o terceiro número: ");
+    System.out.print("Digite o terceiro número: ");
     double num3 = scanner.nextDouble();
 
     double media = (num1+num2+num3)/3;
 
-    system.out.print("Esse é a média dos 3 números: "+media);
+    System.out.print("Esse é a média dos 3 números: "+media);
 
     scanner.close();
   }
