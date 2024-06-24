@@ -1,52 +1,37 @@
-Dia 1-2: Introdução ao Java
+Rotina de Estudos (De hoje até 31 de Julho)
+Semanas 1 e 2: Unidade I - Sobrecarga e Exceções
 
-Tempo recomendado: 1 hora por dia
-Estude os conceitos básicos de Java, como sintaxe, tipos de dados, variáveis e operadores.
-Faça pequenos programas simples para praticar o que aprendeu.
-Dia 3-4: Estruturas de Controle
+Objetivos de Aprendizagem: Compreender sobrecarga de métodos e tratamento de exceções em Java.
+Atividades:
+Leitura dos tópicos de sobrecarga e exemplos práticos.
+Prática de codificação focada em sobrecarga de métodos.
+Estudo sobre tratamento de exceções e prática com exercícios de código.
+Semanas 3 e 4: Unidade II - Classes Abstratas e Interfaces
 
-Tempo recomendado: 1 hora por dia
-Aprenda sobre estruturas de controle em Java, incluindo condicionais (if, else) e loops (for, while).
-Pratique escrevendo programas que usem essas estruturas de controle.
-Dia 5-7: Arrays e Coleções
+Objetivos de Aprendizagem: Entender e implementar classes abstratas e interfaces.
+Atividades:
+Leitura detalhada sobre classes abstratas e suas aplicações.
+Prática de codificação criando interfaces e implementando heranças.
+Revisão dos conceitos com exercícios de múltipla escolha e problemas de codificação.
+Semanas 5 e 6: Unidade III - Arrays e Coleções
 
-Tempo recomendado: 1 hora por dia
-Estude arrays unidimensionais e multidimensionais em Java.
-Aprenda sobre as coleções Java, como ArrayList, LinkedList, HashSet, etc.
-Escreva programas para manipular e trabalhar com arrays e coleções.
-Dia 8-10: Orientação a Objetos
+Objetivos de Aprendizagem: Dominar o uso de arrays e coleções em Java.
+Atividades:
+Estudo teórico sobre arrays e diferentes tipos de coleções.
+Exercícios práticos para manipular arrays e coleções.
+Semana 7: Unidade IV - Introdução à Interface Gráfica
 
-Tempo recomendado: 1-2 horas por dia
-Entenda os princípios de programação orientada a objetos (POO).
-Estude classes, objetos, herança, polimorfismo, encapsulamento e abstração em Java.
-Pratique escrevendo programas orientados a objetos.
-Dia 11-13: Tratamento de Exceções
+Objetivos de Aprendizagem: Aprender a criar interfaces gráficas usando Swing.
+Atividades:
+Leitura dos conceitos básicos de Swing e AWT.
+Desenvolvimento de um pequeno projeto para aplicar o conhecimento adquirido.
+Semana 8: Unidade V - Persistência de Dados com JPA
 
-Tempo recomendado: 1 hora por dia
-Aprenda sobre como lidar com exceções em Java.
-Estude try-catch blocks, throws, finally, e como criar suas próprias exceções personalizadas.
-Pratique escrevendo código que manipule exceções.
-Dia 14-16: Manipulação de Arquivos
-
-Tempo recomendado: 1 hora por dia
-Estude como ler e escrever arquivos em Java.
-Aprenda sobre classes como File, FileReader, FileWriter, e BufferedReader.
-Pratique escrevendo programas que manipulem arquivos.
-Dia 17-20: Interfaces e Classes Abstratas
-
-Tempo recomendado: 1-2 horas por dia
-Entenda o conceito de interfaces e classes abstratas em Java.
-Aprenda como implementar interfaces e estender classes abstratas.
-Pratique escrevendo programas que usem interfaces e classes abstratas.
-Dia 21-24: Programação Avançada
-
-Tempo recomendado: 1-2 horas por dia
-Estude tópicos avançados, como programação concorrente (Threads), expressões lambda, JavaFX (para interfaces gráficas), entre outros.
-Explore APIs populares e frameworks em Java, como Spring e Hibernate.
-Pratique escrevendo programas mais complexos que incorporem esses conceitos avançados.
-Dia 25-30: Projetos Práticos e Revisão
-
-Tempo recomendado: 2-3 horas por dia
-Dedique tempo para trabalhar em projetos práticos usando Java.
-Revise os tópicos que você estudou ao longo do mês.
-Reforce seu aprendizado resolvendo exercícios e problemas de programação em Java.
+Objetivos de Aprendizagem: Compreender a persistência de dados usando JDBC e JPA.
+Atividades:
+Estudo de JDBC e como realizar conexões com bancos de dados.
+Implementação de pequenos projetos usando JPA para entender o mapeamento objeto-relacional.
+Dicas Gerais:
+Revisões Semanais: Dedique um tempo no fim de cada semana para revisar o que foi aprendido e esclarecer dúvidas pendentes.
+Exercícios Práticos: Aplique o conhecimento teórico em pequenos projetos ou exercícios práticos para cada tópico estudado.
+Grupos de Estudo: Se possível, discuta os tópicos com colegas ou em fóruns online para aprofundar o entendimento.
